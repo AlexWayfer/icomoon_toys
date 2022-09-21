@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+## 0.4.0 (2022-09-21)
+
+*   Allow exclude files from extraction by nil path
+    For example, if you don't need for `svgxuse.min.js` to support IE11.
+
 ## 0.3.0 (2022-09-01)
 
 *   Add Ruby 3.1 support.
