@@ -43,6 +43,8 @@ expand IcoMoonToys::Template,
   }
 ```
 
+Use `nil` value to exclude file from extraction.
+
 ## Development
 
 After checking out the repo, run `bundle install` to install dependencies.
