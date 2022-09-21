@@ -18,7 +18,7 @@ module IcoMoonToys
 		}.freeze
 
 		def initialize(extract_map: DEFAULT_EXTRACT_MAP)
-			@extract_map = DEFAULT_EXTRACT_MAP.merge extract_map
+			@extract_map = DEFAULT_EXTRACT_MAP.merge(extract_map).compact
 		end
 
 		on_expand do |template|
