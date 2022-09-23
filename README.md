@@ -1,11 +1,11 @@
 # IcoMoon Toys
 
 [![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/AlexWayfer/icomoon_toys?style=flat-square)](https://cirrus-ci.com/github/AlexWayfer/icomoon_toys)
-[![Codecov branch](https://img.shields.io/codecov/c/github/AlexWayfer/icomoon_toys/master.svg?style=flat-square)](https://codecov.io/gh/AlexWayfer/icomoon_toys)
+[![Codecov branch](https://img.shields.io/codecov/c/github/AlexWayfer/icomoon_toys/main.svg?style=flat-square)](https://codecov.io/gh/AlexWayfer/icomoon_toys)
 [![Code Climate](https://img.shields.io/codeclimate/maintainability/AlexWayfer/icomoon_toys.svg?style=flat-square)](https://codeclimate.com/github/AlexWayfer/icomoon_toys)
 [![Depfu](https://img.shields.io/depfu/AlexWayfer/icomoon_toys?style=flat-square)](https://depfu.com/repos/github/AlexWayfer/icomoon_toys)
-[![Inline docs](https://inch-ci.org/github/AlexWayfer/icomoon_toys.svg?branch=master)](https://inch-ci.org/github/AlexWayfer/icomoon_toys)
-[![License](https://img.shields.io/github/license/AlexWayfer/icomoon_toys.svg?style=flat-square)](https://github.com/AlexWayfer/icomoon_toys/blob/master/LICENSE.txt)
+[![Inline docs](https://inch-ci.org/github/AlexWayfer/icomoon_toys.svg?branch=main)](https://inch-ci.org/github/AlexWayfer/icomoon_toys)
+[![License](https://img.shields.io/github/license/AlexWayfer/icomoon_toys.svg?style=flat-square)](https://github.com/AlexWayfer/icomoon_toys/blob/main/LICENSE.txt)
 [![Gem](https://img.shields.io/gem/v/icomoon_toys.svg?style=flat-square)](https://rubygems.org/gems/icomoon_toys)
 
 Toys for extracting [IcoMoon](https://icomoon.io/) archives.
