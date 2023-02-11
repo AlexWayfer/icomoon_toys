@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+## 0.5.0 (2023-02-12)
+
+*   Add Ruby 3.2 support.
+*   Update dependencies.
+*   Improve CI config.
+
 ## 0.4.0 (2022-09-21)
 
 *   Allow exclude files from extraction by nil path
