@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+## 0.6.0 (2023-11-09)
+
+*   Drop Ruby 2.6 support.
+*   Update `toys` dependencies.
+*   Move development dependencies from `gemspec` into `Gemfile`.
+*   Lock `rubocop` and `rubocop-rspec` versions stricter.
+*   Update development dependencies.
+
 ## 0.5.0 (2023-02-12)
 
 *   Add Ruby 3.2 support.
