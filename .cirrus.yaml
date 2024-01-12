@@ -13,12 +13,14 @@ bundle_cache: &bundle_cache
 remark_task:
   container:
     image: node
+
   node_modules_cache:
     folder: node_modules
     fingerprint_script:
       - echo $CIRRUS_OS
       - node -v
       - cat package.json
+
   install_script: npm install
 
   lint_script: npm run remark
@@ -31,6 +33,7 @@ remark_task:
 rubocop_task:
   container:
     image: ruby:latest
+
   <<: *bundle_cache
 
   lint_script: bundle exec rubocop --format=json --out=rubocop.json
@@ -53,6 +56,7 @@ rspec_task:
       - image: ruby:3.0
       - image: ruby:3.1
       - image: ruby:3.2
+
   <<: *bundle_cache
 
   test_script: bundle exec rspec
