@@ -33,6 +33,6 @@ Gem::Specification.new do |spec|
 	spec.required_ruby_version = '>= 3.2', '< 4'
 
 	spec.add_dependency 'alt_memery', '~> 3.0'
-	spec.add_dependency 'rubyzip', '~> 2.0'
+	spec.add_dependency 'rubyzip', '~> 3.2'
 	spec.add_dependency 'toys-core', '~> 0.19.0'
 end
