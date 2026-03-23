@@ -10,7 +10,7 @@ end
 
 group :development, :toys do
 	gem 'gem_toys', '~> 1.0'
-	gem 'toys', '~> 0.19.0'
+	gem 'toys', '~> 0.21.0'
 end
 
 group :development, :audit do
